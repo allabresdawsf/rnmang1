@@ -1,0 +1,11 @@
+.character-detail {
+  text-align: center;
+  margin: auto;
+  max-width: 400px;
+}
+
+.character-detail img {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+}
